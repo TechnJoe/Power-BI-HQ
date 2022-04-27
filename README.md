@@ -24,7 +24,12 @@ On clicking the Dashboard, the interactive tiles in the report are displayed. Th
 
 Pls note: video clip has no audio.
 
-https://user-images.githubusercontent.com/70856711/165600589-5f3f3d18-6ad1-4927-a93d-5fbf589bbd0f.mp4
+
+
+
+https://user-images.githubusercontent.com/70856711/165620033-f8fcf6c2-9f54-4fb5-85fb-3b6546f386cb.mp4
+
+
 
 Thanks, Joe Muhia
 
